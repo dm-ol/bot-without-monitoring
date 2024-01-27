@@ -1,4 +1,4 @@
-module github.com/dm-ol/kbot
+module github.com/dm-ol/bot-without-monitoring
 
 go 1.21
 
